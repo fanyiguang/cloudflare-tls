@@ -1,4 +1,4 @@
-module cloudflare-tls
+module github.com/sagernet/cloudflare-tls
 
 go 1.23.2
 
